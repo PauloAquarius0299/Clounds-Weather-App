@@ -1,3 +1,25 @@
+![Captura de Tela (30)](https://github.com/PauloAquarius0299/Clounds-Weather-App/assets/114706743/03d30d20-87a0-41ba-9edd-450f0f4fb18a)
+
+# 🌪️ Aplicativo Meteorologia
+Um aplicativo interativo e informativo usando React.js e CSS
+
+## 💨 Introdução
+Criei uma aplicativo para mobile (com acessibilidade tambem pela web) com foco meteorologico para medir o vento da localização do usuario. Com interface interativa, o usuario consegue ter acesso não somente sua localização em tempo real como em qualquer outra cidade do planeta, apos digitar o nome da cidade no input
+
+### 💡 Pre-Requisitos
+
+Usei o VSCode e instalei o React.js, estilizei toda interface com CSS e utilizei a API da "OpenWeather" 
+
+```
+c94bcf05e3e5a3f66a4788e689d95f25
+```
+Lembrando que cada API é unica 
+
+### 🛠️ Tecnologias
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
